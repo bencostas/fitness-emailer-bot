@@ -6,9 +6,9 @@ import smtplib, ssl
 
 #Server = 'localhost'
 
-gc = gspread.service_account(filename='fitnessbotkey.json')
+gc = gspread.service_account(filename='xxx.json') #json file containing the google cloud service credentials
 
-worksheet = gc.open_by_key('1r5An0or3JR9KPP_AJQNmttZohO7HYhQY3m9xTKvqxUw').sheet1
+worksheet = gc.open_by_key('xxx').sheet1 # sheet ID
 
 # Get data from spreadsheet
 def getDF(col: int) -> str:
@@ -53,9 +53,10 @@ elif (today == 5):
 
 port = 465  # For SSL
 smtp_server = "smtp.gmail.com"
-sender_email = "benfitnessbot@gmail.com"  # Enter your address
-receiver_email = "bencostas@gmail.com"  # Enter receiver address
-password = 'pkloo000'
+sender_email = "sender@gmail.com"  # Enter the sender's email address
+receiver_email = "recipients@gmail.com"  # Enter receiver's email address
+# enter the password for the sender_email
+password = 'password'
 message = "Subject: Today\'s Workout:\n" + message
 context = ssl.create_default_context()
 with smtplib.SMTP_SSL(smtp_server, port, context=context) as server:
