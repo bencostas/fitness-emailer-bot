@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fitnessemailerbot",
+  "private_key_id": "0954d02bc6164d673bb62474d00c0dc3a7338181",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDlKGTSw1h1GFba\nrmh4C+cCbNjK7BiZQO8TDCD6rGpzjIcxEbFrgq+FQwFyWQN5wBAv9eX9le4V1E8c\n7ac+6bSwBwuRXBNRGIi/iH4Ch6ve2UbhZTT24rDMl6bQGQ//zD8bGC9HzRn45lkE\nDPwTuKQaUAEJlCymmr1kPTUpBxkAWV18khIwI4BomsJ6UwWT6wVaN7Vp+9SINwwv\nuPVmYkWqhckMw0O1C360D3IeD4jOFv0dVzOorr3IKN7I4aSn9yyRTKgTG1uuzh6X\n9OLPNHXpDCaDIIxspCxWhLs9oeWcwzXttsanLEoSs9lnXvfJKKO7p34QC6R/ZFxP\nfCWfOu+pAgMBAAECggEAA7JhYAINPwRXwFrgbhFZFnGtlKZ25iAFS1QegxS9eeQ6\nORktOMwIq1hvoUnc0728tR1dKrhcuSbt6MxPrqTkCJPwhJWM7Tm9WQOpbr6EEAoG\nyfORRWtWSVKn+wLwfmKr4PLErn6ZTOngZT+VYHcR1KfWQHKOvthPtlqDbUhDR71h\ng2D7OWBdJSxKYelpIKeCOXBIX3D/N7zxILjMy6CD2YSsKufVKvgxxj1XOG1hen6M\nFrSBwFrh6gqNFGJ66ubH/aFkxQno1Q69Obgk1ZXBArY2QXoFjS/R5T4E4OzMaH39\nV2sPOMTxaGWw8tq2Sl6nph3PNl4xNe52uiooH7zjtQKBgQDyoxKxk/nDBsm24l9t\nd3Zxj8TfVCfkUd+w5M4pXb697m0tTejSzy0rhThb5bnW83/N9MdbH2Ap/cPLRu2/\n7SO9jIEu8bVQaEkJYPHIBzuslmDxHQkii5zj5cpnyUsdlsRm4IOod9SrlnHvp/00\nKxBEj59ZwJjHVPFwkJkTU42ezQKBgQDxx0ctMLFz4mg/Li//fPmKTLeHJ5iTeili\nCGhH2CLW91qbPgk3YKpjTRRbd5GWCc0Zqw0Kobr9YY7BUUTBOYltGl+BBC15wjwh\ng3AstFZZdrGDFE2GR5rYjsYKV6nQfQfeY5s0BM6lukgA+1UjTXoCXhqV83WhJXFe\nfN8/mdLcTQKBgB/TK9yG4DeoaETIpGOjS7HRfa0dSK413vVAzZm3ZhFbeI58rZEZ\nA3+11ZKYKyv6fETzWkKlduOLGWdMQlruK8Xs6/TQV0vYodvND2mBKV6VytlVSaFy\nVn294jKCwIt8/v3PbPVn4kkvTnp0uk1haJzVib0n+eILTi/Jh4p1ZxnxAoGAXcDd\ne8uG9B3WOLGrURHgHd3TyOf0xTM4utfxv/IyyFLQYqRypHOqfqkT/Mfnv1t7mbl3\nbCj8vmZHGfVuiNLL1G/GmtvI2o8UDBbQt7USSsy41tBXo3s+szzh1H7bzYm+NGFB\nfLFkhGUwqJjNEcxoRGTDQGRQt7UyOeaIFzyJxH0CgYAI5pZ2ANPsg83YJI92VxDk\n9kaHCzOOj1vBwOAJxEhjPTS4x4DcKsoMsrfEzpyu+LO4ryeXCZDEN8+6Nc5kn7mQ\n+u8Wwr3QfbruXI05mXLZQubW+Q48bqemzJF/xpZkkZ9gEcICQYOOfrHkghqP3E/N\nJ8UOnW/qBZTKD8ZMb6ohbg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "fitnessbot@fitnessemailerbot.iam.gserviceaccount.com",
+  "client_id": "114737836143589391692",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fitnessbot%40fitnessemailerbot.iam.gserviceaccount.com"
+}
